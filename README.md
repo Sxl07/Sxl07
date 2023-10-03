@@ -3,7 +3,7 @@
 I'm Sebastián, a computer technician from Cali-Colombia and currently a systems engineering student at the University of San Buenaventura.
 
 ## Interests:
-- Programming: I love to code and explore new technologies. My favorite programming languages are Python, JavaScript, and Java.
+- Programming: I love to code and explore new technologies. My favorite programming languages are Python and Java.
 - Mathematics: I have a strong interest in mathematics and enjoy solving complex problems. I'm particularly interested in linear algebra, integral calculus, and statistics.
 - Technology: I'm passionate about technology and enjoy learning about new gadgets and software. I'm particularly interested in Data Science and Artificial Intelligence.
 
