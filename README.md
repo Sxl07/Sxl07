@@ -1,6 +1,6 @@
-### Hi there
+### Hi there 👋
 
-I'm Sebastian, a student from Cali-Colombia.
+I'm Sebastian, a computer technician from Cali-Colombia and currently a student at the University of San Buenaventura.
 
 ## Interests:
 - Programming: I love to code and explore new technologies. My favorite programming languages are Python, JavaScript, and Java.
