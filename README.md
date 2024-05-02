@@ -5,7 +5,7 @@ I'm Sebastián, a computer technician from Cali-Colombia and currently a systems
 ## Interests:
 - Programming: I love to code and explore new technologies. My favorite programming languages are Python and Java.
 - Mathematics: I have a strong interest in mathematics and enjoy solving complex problems. I'm particularly interested in linear algebra, calculus, and physics.
-- Technology: I'm passionate about technology and enjoy learning about new gadgets and software. I'm particularly interested in Data Science and Artificial Intelligence.
+- Technology: I'm passionate about technology and enjoy learning about new gadgets and software. I'm particularly interested in Data Science.
 
 ## Programming Languages:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
