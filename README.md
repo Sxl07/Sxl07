@@ -111,7 +111,7 @@ Busco una oportunidad como **practicante / desarrollador junior** en **backend o
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: [www.linkedin.com/in/sebastianlopezdev](www.linkedin.com/in/sebastianlopezdev)
+- 💼 LinkedIn: www.linkedin.com/in/sebastianlopezdev
   
 ---
 
