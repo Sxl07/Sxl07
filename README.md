@@ -1,7 +1,7 @@
 # 👋 Hola, soy Sebastián López Montenegro
 
 💻 **Estudiante de Ingeniería de Sistemas (8.º semestre)** | **Practicante / Junior Software Developer**  
-🎯 Enfoque en **Full Stack** (preferencia por **Java / Spring Boot**)  
+🎯 Enfoque en **Full Stack**  
 📍 Cali, Colombia
 
 Soy tecnico en informática y actualmente estoy fortaleciendo mi perfil como desarrollador de software con proyectos académicos y personales en **Java, .NET, Python, Angular, Docker y AWS**.
@@ -12,7 +12,7 @@ Además, tengo experiencia real como emprendedor en e-commerce, donde integré a
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente enfocado en crecer como **desarrollador backend / full stack junior**
+- 🔭 Actualmente enfocado en crecer como **desarrollador full stack junior**
 - 🌱 Aprendiendo y practicando mejores estándares en **arquitectura, APIs, despliegue y buenas prácticas**
 - 🤝 Me gusta trabajar en equipo, aprender rápido y aportar desde la ejecución
 - 💡 Interés en construir software útil, escalable y bien documentado
