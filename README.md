@@ -1,7 +1,7 @@
 # 👋 Hola, soy Sebastián López Montenegro
 
 💻 **Estudiante de Ingeniería de Sistemas (8.º semestre)** | **Junior Software Developer**  
-🎯 Enfoque en **Full Stack**  
+🎯 Enfoque en **Arquitecturas**
 📍 Cali, Colombia
 
 Soy tecnico en informática y actualmente estoy fortaleciendo mi perfil como desarrollador de software con proyectos académicos y personales en **Java, .NET, Python, Angular, Docker y AWS**.
