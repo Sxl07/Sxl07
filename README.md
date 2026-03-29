@@ -1,6 +1,6 @@
 # 👋 Hola, soy Sebastián López Montenegro
 
-💻 **Estudiante de Ingeniería de Sistemas (8.º semestre)** | **Practicante / Junior Software Developer**  
+💻 **Estudiante de Ingeniería de Sistemas (8.º semestre)** | **Junior Software Developer**  
 🎯 Enfoque en **Full Stack**  
 📍 Cali, Colombia
 
@@ -13,11 +13,9 @@ Además, tengo experiencia real como emprendedor en e-commerce, donde integré a
 ## 🚀 Sobre mí
 
 - 🔭 Actualmente enfocado en crecer como **desarrollador full stack junior**
-- 🌱 Aprendiendo y practicando mejores estándares en **arquitectura, APIs, despliegue y buenas prácticas**
+- 🌱 Aprendiendo y practicando mejores estándares en **arquitectura, seguridad informatica y buenas prácticas**
 - 🤝 Me gusta trabajar en equipo, aprender rápido y aportar desde la ejecución
 - 💡 Interés en construir software útil, escalable y bien documentado
-- ❌ No busco enfocarme en desarrollo móvil (aunque he hecho proyectos en Flutter)
-
 ---
 
 ## 🛠️ Tecnologías y herramientas
@@ -44,14 +42,12 @@ Además, tengo experiencia real como emprendedor en e-commerce, donde integré a
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 ### DevOps / Cloud
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### IA / Automatización (uso aplicado)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-
 ---
 
 ## 🧠 Conocimientos que aplico en proyectos
@@ -88,7 +84,9 @@ Durante los últimos años he operado una tienda propia en **Shopify + Dropi**, 
 
 - 🎓 **Ingeniería de Sistemas** (8.º semestre) — Universidad de San Buenaventura
 - 🧾 **Tecnico en Informática**
+- ✅ **Certificación AWS AI Practicioner**
 - ✅ **Certificación Fortinet Fundamentals**
+- ✅ **Scrum Fundations Professional Certificate (SFPC)**
 
 ---
 
@@ -96,13 +94,13 @@ Durante los últimos años he operado una tienda propia en **Shopify + Dropi**, 
 
 - 🇪🇸 Español — Nativo
 - 🇬🇧 Inglés — B1
-- 🇵🇹 Portugués — A2
+- 🇵🇹 Portugués — b1
 
 ---
 
 ## 🎯 Objetivo profesional
 
-Busco una oportunidad como **practicante / desarrollador junior** en **backend o full stack**, donde pueda aportar con disciplina, aprendizaje rápido, trabajo en equipo y enfoque en calidad de software.
+Busco una oportunidad como **desarrollador junior full stack**, donde pueda aportar con disciplina, aprendizaje rápido, trabajo en equipo y enfoque en calidad de software.
 
 ---
 
